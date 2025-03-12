@@ -1,0 +1,9 @@
+{
+    "dev": {
+      "baseUrl": "https://dev.restful-booker.herokuapp.com"
+    },
+    "prod": {
+      "baseUrl": "https://restful-booker.herokuapp.com"
+    }
+  }
+  
